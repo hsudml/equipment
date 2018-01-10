@@ -12,10 +12,16 @@ The camera is ready for point and shoot, but remember:
 * Borrow the Rode VideoMic for better audio (the built-in mic is also not bad).
 * Borrow the [5-in-1 light reflector](https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA999647552102909&context=L&vid=01CALS_HUL&search_scope=01CALS&tab=books_csu&lang=en_US).
 
+### Getting Started
+The Canon T6i is a fully featured DSLR camera that also shoots great video. Leave it on the auto settings and start shooting right away or set it to manual to get total control over your video. The Canon Connect app allows you to control the camera, see a live view, add GPS data, and transfer images and video to your smart device wirelessly. The included USB cable also allows you to transfer files to any laptop, desktop or tablet with USB inputs. 
+
+If you are new to video, get started with the T6i by following the short video tutorials below. Don't forget that with most projects, the sound you're capturing is equally, if not more, important than your video, so be sure to test that out and borrow another audio recording device if necessary. 
+
 #### User manuals & guides
 
 * [Complete Manual - 414 pages](http://gdlp01.c-wss.com/gds/4/0300018254/02/eos-rebelt6i-750d-im2-en.pdf) (PDF Download)
 * [Canon EOS Rebel T6i/750D for Dummies Cheat Sheet](http://www.dummies.com/photography/cameras/canon-camera/canon-eos-rebel-t6i750d-for-dummies-cheat-sheet/) (webpage)
+* [Canon Connect App Overivew](https://www.usa.canon.com/internet/portal/us/home/explore/solutions-services/mobile-apps/camera-connect) (webpage)
 
 #### Video Tutorials
 * [Canon T6i/T6s User Guide Training Tutorial: Wifi Setup & Demo](https://youtu.be/pO0VWTeJ9a4)
