@@ -30,7 +30,9 @@ The camera is ready for point and shoot, but remember:
 * [Canon T6i for Professional Video Production](https://youtu.be/LXkDCtL2i50)
 
 ---
-All DML equipment is available to borrow for free from the checkout desk on the first floor of the library. Items are due back 72 hours after checkout (except holidays).  
-After saving, be sure to delete any files from the device- plug into a computer using the included USB adapter to delete files.    
-[Back to Equipment main page](https://github.com/hsudml/equipment)    
-[Video](https://github.com/hsudml/equipment/video/) | [Audio]() | [Photo]() | [Accessories]()    
+All DML equipment is available to borrow for free from the checkout desk on the first floor of the library.   
+Items are due back 72 hours after checkout (except holidays).  
+After saving, be sure to delete any files from the device- plug into a computer using the included USB adapter to delete files. 
+#### Links
+[DML Equipment](https://github.com/hsudml/equipment)    
+[Video](https://github.com/hsudml/equipment/video/video.md) | [Audio]() | [Photo]() | [Accessories]()    
