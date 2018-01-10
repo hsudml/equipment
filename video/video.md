@@ -9,7 +9,7 @@ You'll want to choose equipment and software that is best for your project. Not 
 
 The T6i is a great DSLR camera that provides plenty of automatic functions but also allows you to control things for those technical shots. The T6i is also great for video and has WiFi capability for camera controls and transferring photos from the Canon Camera Connect mobile app.
 
-![alt text](https://raw.githubusercontent.com/hsudml/equipment/master/images/canonT6iParts.png "Canon EOS Rebel T6i DSLR Camera and accessories")
+![Canon T6i and parts included with checkout.](https://raw.githubusercontent.com/hsudml/equipment/master/images/canonT6iParts.png "Canon EOS Rebel T6i DSLR Camera and accessories")
 
 ### Requirements
 
