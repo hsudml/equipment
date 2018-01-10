@@ -1,5 +1,10 @@
 # Video
 
+## What are you working on?
+You'll want to choose equipment and software that is best for your project. Not all video cameras are the same and it's important to have a basic idea of your project before you start grabbing equipment. The lists below will help you figure out what you need and if it's available. Skip to the bottom of the page if you already know what you're looking for. 
+
+
+
 ## Canon T6i DSLR Camera
 
 The T6i is a great DSLR camera that provides plenty of automatic functions but also allows you to control things for those technical shots. The T6i is also great for video and has WiFi capability for camera controls and transferring photos from the Canon Camera Connect mobile app.
@@ -19,7 +24,12 @@ The camera is ready for point and shoot, but remember:
 * [Complete Manual - 414 pages](http://gdlp01.c-wss.com/gds/4/0300018254/02/eos-rebelt6i-750d-im2-en.pdf) (PDF Download)
 * [Canon EOS Rebel T6i/750D for Dummies Cheat Sheet](http://www.dummies.com/photography/cameras/canon-camera/canon-eos-rebel-t6i750d-for-dummies-cheat-sheet/) (webpage)
 
-#### Videos
+#### Video Tutorials
 * [Canon T6i/T6s User Guide Training Tutorial: Wifi Setup & Demo](https://youtu.be/pO0VWTeJ9a4)
 * [Best Video/Youtube Settings for Canon T6i (750D) DSLR](https://youtu.be/g3XS1CBznk4)
 * [Canon T6i for Professional Video Production](https://youtu.be/LXkDCtL2i50)
+
+---
+All DML equipment is available to borrow for free from the checkout desk on the first floor of the library. Items are due back 72 hours after checkout (except holidays).  
+After saving, be sure to delete any files from the device- plug into a computer using the included USB adapter to delete files.    
+[Back to Equipment main page](https://github.com/hsudml/equipment)  
