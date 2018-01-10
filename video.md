@@ -32,4 +32,5 @@ The camera is ready for point and shoot, but remember:
 ---
 All DML equipment is available to borrow for free from the checkout desk on the first floor of the library. Items are due back 72 hours after checkout (except holidays).  
 After saving, be sure to delete any files from the device- plug into a computer using the included USB adapter to delete files.    
-[Back to Equipment main page](https://github.com/hsudml/equipment)  
+[Back to Equipment main page](https://github.com/hsudml/equipment)    
+[Video](https://github.com/hsudml/equipment/video/) | [Audio]() | [Photo]() | [Accessories]()    
