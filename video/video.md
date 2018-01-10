@@ -36,9 +36,9 @@ Recording a visting speaker, class presentation, or similar event has some other
 These types of projects require that the camera you use have streaming capabilities. Many cameras do not. Also, you will likely need a device (laptop, desktop, tablet) with software to run the video chat or conference. Smartphones and tablets with built-in cameras and mics have a variety of apps for videconferencing and if you have one of these, that may be your simplest option. If you need a better quality camera or mic, take a look at the list below: 
 
 * Ligitech c920 HD Pro Webcam - this camera shoots in HD (1080p) and has a pretty good mic for most applications. It can be a good option for streaming live events as well.   
-* 360fly 4k - this 360-degree camera can be set up as a webcam via the included USB cable. See the [360fly support page for instructions](https://support.360fly.com/hc/en-us/articles/232287008-How-to-use-your-360fly-4K-as-a-WebCam-on-your-computer). (see if the 360fly 4k is available to borrow)[https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA999647552202909&context=L&vid=01CALS_HUL&search_scope=01CALS&tab=books_csu&lang=en_US]
+* 360fly 4k - this 360-degree camera can be set up as a webcam via the included USB cable. See the [360fly support page for instructions](https://support.360fly.com/hc/en-us/articles/232287008-How-to-use-your-360fly-4K-as-a-WebCam-on-your-computer). ([see if the 360fly 4k is available to borrow](https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA999647552202909&context=L&vid=01CALS_HUL&search_scope=01CALS&tab=books_csu&lang=en_US))
 * USB Mics (require laptop or other device with USB port and recording software)
-  * Blue Snowball (see if a Snowball mic is available to borrow)[]
+  * Blue Snowball ([see if a Snowball mic is available to borrow]())
   * Samson C01U ([see if the C01U is available to borrow](https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA999441423402909&context=L&vid=01CALS_HUL&search_scope=01CALS&tab=books_csu&lang=en_US))
 
 ---
